@@ -9,7 +9,8 @@ I'm a software developer with expertise in crafting engaging and dynamic user in
 Feel free to explore my repositories to see the projects I've been working on. Let's connect and collaborate on exciting front-end adventures! 🌟
 
 ### Connect with me 😃
-[My Linkedin profile](https://www.linkedin.com/in/erikaskubida/)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/errikaskubida)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevrika&layout=compact&theme=transparent)
 
