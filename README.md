@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Ērika! 👋
 
-<!--
-**jevrika/jevrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate front-end developer with expertise in crafting engaging and dynamic user interfaces. Here's a glimpse of my tech stack:
 
-Here are some ideas to get you started:
+- **Languages:** JavaScript, HTML, CSS, TypeScript
+- **Frameworks/Libraries:** React, Redux, Next.js, Angular (in progress), Vue.js (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always eager to learn and explore new technologies, I'm currently diving deeper into Angular and Vue.js to broaden my skill set.
+
+Feel free to explore my repositories to see the projects I've been working on. Let's connect and collaborate on exciting front-end adventures! 🌟
+
+### Connect with me 😃
+[My Linkedin profile](https://www.linkedin.com/in/erikaskubida/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevrika&layout=compact&theme=transparent)
+
+
