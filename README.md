@@ -13,4 +13,9 @@ Feel free to explore my repositories to see the projects I've been working on. L
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevrika&layout=compact&theme=transparent)
 
+### At this moment my best projects : 
+ - [Blog Aplication with next.js](https://github.com/jevrika/Next.js-Blog-Application)
+ - [React CRUD](https://github.com/jevrika/React-CRUD)
+ - [Movie List with React Query and React Router](https://github.com/jevrika/Movies-list---React-Query-React-router) 
+
 
