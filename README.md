@@ -10,7 +10,7 @@ Feel free to explore my repositories to see the projects I've been working on. L
 
 ### Connect with me 😃
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/erikaskubida)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/erikaskubida/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevrika&layout=compact&theme=transparent)
 
